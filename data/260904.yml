@@ -7,7 +7,7 @@ about:
   head: 979a017
   archived: false
   latestVersion: v2026.08.31.00
-  collectedAt: 2026-09-04T19:57:39Z
+  collectedAt: 2026-09-04T20:47:02Z
 timeline:
   created: 2014-12-11
   lastCommit: 2026-09-04
@@ -86,6 +86,69 @@ total:
   openIssue: 34
   commit: 7650
 ---
+path: /home/runner/.x-repo/github.com/facebook/wangle
+collectedAt: 2026-09-04T20:47:04Z
+loc:
+  Cpp:
+    code: 14727
+    comments: 2495
+    blanks: 2643
+    files: 86
+  Python:
+    code: 10177
+    comments: 1052
+    blanks: 1654
+    files: 36
+  CHeader:
+    code: 8547
+    comments: 4749
+    blanks: 2196
+    files: 110
+  CMake:
+    code: 3062
+    comments: 1294
+    blanks: 494
+    files: 41
+  Yaml:
+    code: 589
+    comments: 30
+    blanks: 97
+    files: 6
+  Jinja2:
+    code: 152
+    comments: 0
+    blanks: 23
+    files: 1
+  Sh:
+    code: 58
+    comments: 6
+    blanks: 10
+    files: 1
+  C:
+    code: 49
+    comments: 40
+    blanks: 13
+    files: 1
+  Autoconf:
+    code: 32
+    comments: 12
+    blanks: 8
+    files: 2
+  Markdown:
+    code: 0
+    comments: 476
+    blanks: 204
+    files: 8
+  Text:
+    code: 0
+    comments: 2
+    blanks: 0
+    files: 2
+total:
+  code: 37401
+  comments: 10156
+  blanks: 7344
+  files: 294
 ---
 date: "2026-08-24"
 repo:

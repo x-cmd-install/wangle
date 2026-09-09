@@ -2,20 +2,20 @@ about:
   description: "Wangle is a framework providing a set of common client/server abstractions for building services in a consistent, modular, and composable way."
   license: Apache-2.0
   homepage: 
-  head: d1baa4f
+  head: 0b606b9
   archived: false
   latestVersion: "v2026.09.07.00"
   latestRelease: "v2026.09.07.00"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T03:08:40Z
+  collectedAt: 2026-09-09T18:20:27Z
 timeline:
   created: 2014-12-11
-  lastCommit: 2026-09-08
+  lastCommit: 2026-09-09
   lastVersion: 2026-09-07
   lastRelease: 2026-09-07
   lastPrerelease: 
 popularity:
-  star: 3093
+  star: 3092
   watcher: 158
   fork: 547
   release: 309
@@ -39,7 +39,7 @@ recent:
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 45
+    commit: 47
   last60d:
     since: 2026-07-11
     release: 9
@@ -47,7 +47,7 @@ recent:
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 79
+    commit: 81
   last90d:
     since: 2026-06-11
     release: 13
@@ -55,7 +55,7 @@ recent:
     openPR: 1
     closedIssue: 0
     openIssue: 0
-    commit: 127
+    commit: 129
   last180d:
     since: 2026-03-13
     release: 26
@@ -63,7 +63,7 @@ recent:
     openPR: 1
     closedIssue: 0
     openIssue: 0
-    commit: 330
+    commit: 332
   last360d:
     since: 2025-09-14
     release: 50
@@ -71,7 +71,7 @@ recent:
     openPR: 3
     closedIssue: 0
     openIssue: 0
-    commit: 631
+    commit: 633
   last720d:
     since: 2024-09-19
     release: 100
@@ -79,17 +79,17 @@ recent:
     openPR: 5
     closedIssue: 0
     openIssue: 1
-    commit: 1161
+    commit: 1163
 total:
   release: 309
   mergedPR: 7
   openPR: 14
   closedIssue: 114
   openIssue: 34
-  commit: 7654
+  commit: 7656
 ---
 path: /home/runner/.x-repo/github.com/facebook/wangle
-collectedAt: 2026-09-09T03:08:44Z
+collectedAt: 2026-09-09T18:20:32Z
 loc:
   Cpp:
     code: 14727

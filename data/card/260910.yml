@@ -2,15 +2,15 @@ about:
   description: "Wangle is a framework providing a set of common client/server abstractions for building services in a consistent, modular, and composable way."
   license: Apache-2.0
   homepage: 
-  head: 6ef443b
+  head: 3b52e5e
   archived: false
   latestVersion: "v2026.09.07.00"
   latestRelease: "v2026.09.07.00"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T15:55:36Z
+  collectedAt: 2026-09-10T20:26:39Z
 timeline:
   created: 2014-12-11
-  lastCommit: 2026-09-09
+  lastCommit: 2026-09-10
   lastVersion: 2026-09-07
   lastRelease: 2026-09-07
   lastPrerelease: 
@@ -39,7 +39,7 @@ recent:
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 0
+    commit: 49
   last60d:
     since: 2026-07-12
     release: 9
@@ -47,7 +47,7 @@ recent:
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 0
+    commit: 83
   last90d:
     since: 2026-06-12
     release: 13
@@ -55,7 +55,7 @@ recent:
     openPR: 1
     closedIssue: 0
     openIssue: 0
-    commit: 0
+    commit: 131
   last180d:
     since: 2026-03-14
     release: 26
@@ -63,7 +63,7 @@ recent:
     openPR: 1
     closedIssue: 0
     openIssue: 0
-    commit: 0
+    commit: 334
   last360d:
     since: 2025-09-15
     release: 50
@@ -71,7 +71,7 @@ recent:
     openPR: 3
     closedIssue: 0
     openIssue: 0
-    commit: 0
+    commit: 635
   last720d:
     since: 2024-09-20
     release: 100
@@ -79,17 +79,17 @@ recent:
     openPR: 5
     closedIssue: 0
     openIssue: 1
-    commit: 1162
+    commit: 1163
 total:
   release: 309
   mergedPR: 7
   openPR: 14
   closedIssue: 114
   openIssue: 34
-  commit: 7657
+  commit: 7658
 ---
 path: /home/runner/.x-repo/github.com/facebook/wangle
-collectedAt: 2026-09-10T15:55:37Z
+collectedAt: 2026-09-10T20:26:40Z
 loc:
   Cpp:
     code: 14727

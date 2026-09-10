@@ -12,41 +12,7 @@ Wangle is a framework providing a set of common client/server abstractions for b
 x install wangle
 ```
 
-## Source
-
-- **Upstream**: <https://github.com/facebook/wangle>
-- **License**: Apache-2.0
-
-## Release
-
-- **Latest**: `v2026.09.07.00` (2026-09-07)
-- **Last commit**: 2026-09-09
-- **Assets in release**: 2
-
-## Release assets
-
-| Asset | Size | Target |
-|-------|-----:|--------|
-| [wangle-v2026.09.07.00.tar.gz](https://github.com/facebook/wangle/releases/download/v2026.09.07.00/wangle-v2026.09.07.00.tar.gz) | 425.7 KiB | `native/unknown` |
-| [wangle-v2026.09.07.00.zip](https://github.com/facebook/wangle/releases/download/v2026.09.07.00/wangle-v2026.09.07.00.zip) | 681.9 KiB | `other` |
-
-## Popularity
-
-- **Stars**: 3,092 · **Forks**: 547 · **Open issues**: 148 · **Contributors**: 275
-
-## Totals (cumulative)
-
-- **Releases**: 309 · **Merged PRs**: 7 · **Open PRs**: 14 · **Closed issues**: 114 · **Open issues**: 34 · **Commits**: 7657
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 4 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-12 | 13 | 0 | 1 | 0 | 0 | 0 |
-| 360d | 2025-09-15 | 50 | 0 | 3 | 0 | 0 | 0 |
-
-## Code size
+## Code insight
 
 Total: **37,393** lines of code across **279** files in the top 5 languages.
 
@@ -68,6 +34,52 @@ Lowest-scoring checks:
 - **SAST** (0/10) — no SAST tool detected
 - **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
 
+## Source
+
+- **Upstream**: <https://github.com/facebook/wangle>
+- **License**: Apache-2.0
+
+## Release
+
+- **Latest**: `v2026.09.07.00` (2026-09-07)
+- **Last commit**: 2026-09-10
+- **Assets in release**: 2
+
+## Popularity
+
+- **Stars**: 3,092 · **Forks**: 547 · **Open issues**: 148 · **Contributors**: 275
+
+## Totals (cumulative)
+
+- **Releases**: 309 · **Merged PRs**: 7 · **Open PRs**: 14 · **Closed issues**: 114 · **Open issues**: 34 · **Commits**: 7658
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 4 | 0 | 0 | 0 | 0 | 49 |
+| last60d | 2026-07-12 | 9 | 0 | 0 | 0 | 0 | 83 |
+| 90d | 2026-06-12 | 13 | 0 | 1 | 0 | 0 | 131 |
+| last180d | 2026-03-14 | 26 | 0 | 1 | 0 | 0 | 334 |
+| 360d | 2025-09-15 | 50 | 0 | 3 | 0 | 0 | 635 |
+| last720d | 2024-09-20 | 100 | 3 | 5 | 0 | 1 | 1163 |
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [wangle-v2026.09.07.00.tar.gz](https://github.com/facebook/wangle/releases/download/v2026.09.07.00/wangle-v2026.09.07.00.tar.gz) | 425.7 KiB | `native/unknown` |
+| [wangle-v2026.09.07.00.zip](https://github.com/facebook/wangle/releases/download/v2026.09.07.00/wangle-v2026.09.07.00.zip) | 681.9 KiB | `other` |
+
+## Distribution status
+
+Reported by **39** distros on [repology.org](https://repology.org/project/wangle). **3** are ✅ on the latest upstream release, **18** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `2026.07.27.00` | ✅ latest |
+| Nix unstable | `2026.07.27.00` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for wangle lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `wangle` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -77,4 +89,4 @@ Install metadata for wangle lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T15:55:41Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:26:45Z._

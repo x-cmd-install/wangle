@@ -4,7 +4,7 @@
 
 Wangle is a framework providing a set of common client/server abstractions for building services in a consistent, modular, and composable way.
 
-![wangle](https://repo.x-cmd.io/wangle.svg)
+[![x-cmd/install — wangle Code Quality Monitoring Repo Card](https://repo.x-cmd.io/wangle.svg)](https://x-cmd.com/install/wangle)
 
 ## Install
 
@@ -18,7 +18,7 @@ Total: **37,918** lines of code across **285** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Cpp | 14,727 | 2,495 | 2,643 | 86 |
+| Cpp | 14,727 | 2,498 | 2,643 | 86 |
 | Python | 10,697 | 1,129 | 1,754 | 39 |
 | CHeader | 8,547 | 4,749 | 2,196 | 110 |
 | CMake | 3,067 | 1,297 | 494 | 44 |
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2026.09.14.00` (2026-09-14)
-- **Last commit**: 2026-09-18
+- **Last commit**: 2026-09-19
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 3,093 · **Forks**: 547 · **Open issues**: 148 · **Contributors**: 276
+- **Stars**: 3,093 · **Forks**: 548 · **Open issues**: 148 · **Contributors**: 276
 
 ## Totals (cumulative)
 
-- **Releases**: 310 · **Merged PRs**: 7 · **Open PRs**: 14 · **Closed issues**: 114 · **Open issues**: 34 · **Commits**: 7691
+- **Releases**: 310 · **Merged PRs**: 7 · **Open PRs**: 14 · **Closed issues**: 114 · **Open issues**: 34 · **Commits**: 7696
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 4 | 0 | 0 | 0 | 0 | 72 |
-| last60d | 2026-07-20 | 9 | 0 | 0 | 0 | 0 | 108 |
-| 90d | 2026-06-20 | 13 | 0 | 1 | 0 | 0 | 155 |
-| last180d | 2026-03-22 | 26 | 0 | 1 | 0 | 0 | 355 |
-| 360d | 2025-09-23 | 49 | 0 | 3 | 0 | 0 | 658 |
-| last720d | 2024-09-28 | 100 | 2 | 5 | 0 | 1 | 1171 |
+| 30d | 2026-08-21 | 4 | 0 | 0 | 0 | 0 | 66 |
+| last60d | 2026-07-22 | 8 | 0 | 0 | 0 | 0 | 102 |
+| 90d | 2026-06-22 | 13 | 0 | 1 | 0 | 0 | 143 |
+| last180d | 2026-03-24 | 25 | 0 | 1 | 0 | 0 | 353 |
+| 360d | 2025-09-25 | 49 | 0 | 3 | 0 | 0 | 653 |
+| last720d | 2024-09-30 | 100 | 2 | 5 | 0 | 1 | 1174 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for wangle lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T03:15:11Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T03:28:30Z._

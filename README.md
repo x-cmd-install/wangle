@@ -41,8 +41,8 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v2026.09.14.00` (2026-09-14)
-- **Last commit**: 2026-09-20
+- **Latest**: `v2026.09.21.00` (2026-09-21)
+- **Last commit**: 2026-09-21
 - **Assets in release**: 2
 
 ## Popularity
@@ -51,25 +51,25 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 310 · **Merged PRs**: 7 · **Open PRs**: 14 · **Closed issues**: 114 · **Open issues**: 34 · **Commits**: 7697
+- **Releases**: 311 · **Merged PRs**: 7 · **Open PRs**: 14 · **Closed issues**: 114 · **Open issues**: 34 · **Commits**: 7700
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 4 | 0 | 0 | 0 | 0 | 67 |
-| last60d | 2026-07-23 | 8 | 0 | 0 | 0 | 0 | 103 |
-| 90d | 2026-06-23 | 12 | 0 | 1 | 0 | 0 | 144 |
-| last180d | 2026-03-25 | 25 | 0 | 1 | 0 | 0 | 354 |
-| 360d | 2025-09-26 | 49 | 0 | 3 | 0 | 0 | 654 |
-| last720d | 2024-10-01 | 100 | 2 | 5 | 0 | 1 | 1174 |
+| 30d | 2026-08-23 | 5 | 0 | 0 | 0 | 0 | 70 |
+| last60d | 2026-07-24 | 9 | 0 | 0 | 0 | 0 | 106 |
+| 90d | 2026-06-24 | 13 | 0 | 1 | 0 | 0 | 147 |
+| last180d | 2026-03-26 | 26 | 0 | 1 | 0 | 0 | 357 |
+| 360d | 2025-09-27 | 50 | 0 | 3 | 0 | 0 | 657 |
+| last720d | 2024-10-02 | 100 | 2 | 5 | 0 | 1 | 1171 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [wangle-v2026.09.14.00.tar.gz](https://github.com/facebook/wangle/releases/download/v2026.09.14.00/wangle-v2026.09.14.00.tar.gz) | 426.5 KiB | `native/unknown` |
-| [wangle-v2026.09.14.00.zip](https://github.com/facebook/wangle/releases/download/v2026.09.14.00/wangle-v2026.09.14.00.zip) | 683.1 KiB | `other` |
+| [wangle-v2026.09.21.00.tar.gz](https://github.com/facebook/wangle/releases/download/v2026.09.21.00/wangle-v2026.09.21.00.tar.gz) | 434.7 KiB | `native/unknown` |
+| [wangle-v2026.09.21.00.zip](https://github.com/facebook/wangle/releases/download/v2026.09.21.00/wangle-v2026.09.21.00.zip) | 694.5 KiB | `other` |
 
 ## Improve this data
 
@@ -80,4 +80,4 @@ Install metadata for wangle lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260921.yml` · 2026-09-21T03:23:31Z._
+_Snapshot: `data/card/260922.yml` · 2026-09-22T03:22:20Z._

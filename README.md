@@ -14,12 +14,12 @@ x install wangle
 
 ## Code insight
 
-Total: **37,918** lines of code across **285** files in the top 5 languages.
+Total: **38,130** lines of code across **285** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Cpp | 14,727 | 2,498 | 2,643 | 86 |
-| Python | 10,697 | 1,129 | 1,754 | 39 |
+| Python | 10,909 | 1,134 | 1,776 | 39 |
 | CHeader | 8,547 | 4,749 | 2,196 | 110 |
 | CMake | 3,067 | 1,297 | 494 | 44 |
 | Yaml | 589 | 30 | 97 | 6 |
@@ -41,8 +41,8 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v2026.09.21.00` (2026-09-21)
-- **Last commit**: 2026-09-27
+- **Latest**: `v2026.09.28.00` (2026-09-28)
+- **Last commit**: 2026-09-28
 - **Assets in release**: 2
 
 ## Popularity
@@ -51,25 +51,25 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 311 · **Merged PRs**: 7 · **Open PRs**: 14 · **Closed issues**: 114 · **Open issues**: 34 · **Commits**: 7711
+- **Releases**: 312 · **Merged PRs**: 7 · **Open PRs**: 14 · **Closed issues**: 114 · **Open issues**: 34 · **Commits**: 7715
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 4 | 0 | 0 | 0 | 0 | 63 |
-| last60d | 2026-07-30 | 8 | 0 | 0 | 0 | 0 | 108 |
-| 90d | 2026-06-30 | 12 | 0 | 0 | 0 | 0 | 149 |
-| last180d | 2026-04-01 | 25 | 0 | 1 | 0 | 0 | 347 |
-| 360d | 2025-10-03 | 49 | 0 | 3 | 0 | 0 | 657 |
-| last720d | 2024-10-08 | 100 | 2 | 5 | 0 | 1 | 1169 |
+| 30d | 2026-08-30 | 5 | 0 | 0 | 0 | 0 | 67 |
+| last60d | 2026-07-31 | 9 | 0 | 0 | 0 | 0 | 112 |
+| 90d | 2026-07-01 | 13 | 0 | 0 | 0 | 0 | 153 |
+| last180d | 2026-04-02 | 26 | 0 | 1 | 0 | 0 | 351 |
+| 360d | 2025-10-04 | 50 | 0 | 3 | 0 | 0 | 661 |
+| last720d | 2024-10-09 | 100 | 2 | 5 | 0 | 1 | 1171 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [wangle-v2026.09.21.00.tar.gz](https://github.com/facebook/wangle/releases/download/v2026.09.21.00/wangle-v2026.09.21.00.tar.gz) | 434.7 KiB | `native/unknown` |
-| [wangle-v2026.09.21.00.zip](https://github.com/facebook/wangle/releases/download/v2026.09.21.00/wangle-v2026.09.21.00.zip) | 694.5 KiB | `other` |
+| [wangle-v2026.09.28.00.tar.gz](https://github.com/facebook/wangle/releases/download/v2026.09.28.00/wangle-v2026.09.28.00.tar.gz) | 434.9 KiB | `native/unknown` |
+| [wangle-v2026.09.28.00.zip](https://github.com/facebook/wangle/releases/download/v2026.09.28.00/wangle-v2026.09.28.00.zip) | 694.7 KiB | `other` |
 
 ## Improve this data
 
@@ -80,4 +80,4 @@ Install metadata for wangle lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260928.yml` · 2026-09-28T03:43:22Z._
+_Snapshot: `data/card/260929.yml` · 2026-09-29T04:18:03Z._

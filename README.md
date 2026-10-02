@@ -14,12 +14,12 @@ x install wangle
 
 ## Code insight
 
-Total: **38,130** lines of code across **285** files in the top 5 languages.
+Total: **38,208** lines of code across **285** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Cpp | 14,727 | 2,498 | 2,643 | 86 |
-| Python | 10,909 | 1,134 | 1,776 | 39 |
+| Python | 10,987 | 1,134 | 1,790 | 39 |
 | CHeader | 8,547 | 4,749 | 2,196 | 110 |
 | CMake | 3,067 | 1,297 | 494 | 44 |
 | Yaml | 589 | 30 | 97 | 6 |
@@ -42,7 +42,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2026.09.28.00` (2026-09-28)
-- **Last commit**: 2026-09-30
+- **Last commit**: 2026-10-01
 - **Assets in release**: 2
 
 ## Popularity
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 312 · **Merged PRs**: 7 · **Open PRs**: 14 · **Closed issues**: 114 · **Open issues**: 34 · **Commits**: 7719
+- **Releases**: 312 · **Merged PRs**: 7 · **Open PRs**: 14 · **Closed issues**: 114 · **Open issues**: 34 · **Commits**: 7721
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-01 | 4 | 0 | 0 | 0 | 0 | 71 |
-| last60d | 2026-08-02 | 9 | 0 | 0 | 0 | 0 | 116 |
-| 90d | 2026-07-03 | 13 | 0 | 0 | 0 | 0 | 157 |
-| last180d | 2026-04-04 | 26 | 0 | 1 | 0 | 0 | 355 |
-| 360d | 2025-10-06 | 50 | 0 | 3 | 0 | 0 | 665 |
-| last720d | 2024-10-11 | 100 | 2 | 5 | 0 | 1 | 1173 |
+| 30d | 2026-09-02 | 4 | 0 | 0 | 0 | 0 | 73 |
+| last60d | 2026-08-03 | 9 | 0 | 0 | 0 | 0 | 118 |
+| 90d | 2026-07-04 | 13 | 0 | 0 | 0 | 0 | 159 |
+| last180d | 2026-04-05 | 26 | 0 | 1 | 0 | 0 | 357 |
+| 360d | 2025-10-07 | 49 | 0 | 3 | 0 | 0 | 667 |
+| last720d | 2024-10-12 | 100 | 2 | 5 | 0 | 1 | 1171 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for wangle lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261001.yml` · 2026-10-01T04:13:26Z._
+_Snapshot: `data/card/261002.yml` · 2026-10-02T04:06:56Z._

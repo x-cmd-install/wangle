@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 313 · **Merged PRs**: 7 · **Open PRs**: 14 · **Closed issues**: 114 · **Open issues**: 34 · **Commits**: 7731
+- **Releases**: 313 · **Merged PRs**: 7 · **Open PRs**: 14 · **Closed issues**: 114 · **Open issues**: 34 · **Commits**: 7732
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-07 | 5 | 0 | 0 | 0 | 0 | 72 |
-| last60d | 2026-08-08 | 9 | 0 | 0 | 0 | 0 | 123 |
-| 90d | 2026-07-09 | 13 | 0 | 0 | 0 | 0 | 161 |
-| last180d | 2026-04-10 | 26 | 0 | 1 | 0 | 0 | 354 |
-| 360d | 2025-10-12 | 50 | 0 | 3 | 0 | 0 | 659 |
-| last720d | 2024-10-17 | 100 | 2 | 5 | 0 | 1 | 1174 |
+| 30d | 2026-09-08 | 4 | 0 | 0 | 0 | 0 | 73 |
+| last60d | 2026-08-09 | 9 | 0 | 0 | 0 | 0 | 124 |
+| 90d | 2026-07-10 | 13 | 0 | 0 | 0 | 0 | 162 |
+| last180d | 2026-04-11 | 26 | 0 | 1 | 0 | 0 | 355 |
+| 360d | 2025-10-13 | 50 | 0 | 3 | 0 | 0 | 660 |
+| last720d | 2024-10-18 | 100 | 2 | 4 | 0 | 1 | 1172 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for wangle lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261007.yml` · 2026-10-07T04:22:32Z._
+_Snapshot: `data/card/261008.yml` · 2026-10-08T04:34:07Z._

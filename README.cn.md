@@ -26,13 +26,13 @@ x install wangle
 
 ## OpenSSF Scorecard 评分
 
-总评分: **5.6 / 10**
+总评分: **5.7 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (4/10) — Found 14/30 approved changesets -- score normalized to 4
 - **Packaging** (-1/10) — packaging workflow not detected
 - **SAST** (0/10) — no SAST tool detected
+- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
 
 ## 源代码
 
@@ -41,35 +41,35 @@ x install wangle
 
 ## 发布
 
-- **最新版本**: `v2026.10.12.00` (2026-10-12)
-- **最近提交**: 2026-10-18
+- **最新版本**: `v2026.10.19.00` (2026-10-19)
+- **最近提交**: 2026-10-19
 - **Release 含资产**: 2 个
 
 ## 流行度
 
-- **Star**: 3,093 · **Fork**: 546 · **开放 issue**: 148 · **贡献者**: 277
+- **Star**: 3,094 · **Fork**: 546 · **开放 issue**: 148 · **贡献者**: 277
 
 ## 累计统计
 
-- **发布数**: 314 · **已合并 PR**: 7 · **开放 PR**: 14 · **已关闭 issue**: 114 · **开放 issue**: 34 · **提交数**: 7757
+- **发布数**: 315 · **已合并 PR**: 7 · **开放 PR**: 14 · **已关闭 issue**: 114 · **开放 issue**: 34 · **提交数**: 7759
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-19 | 4 | 0 | 0 | 0 | 0 | 50 |
-| last60d | 2026-08-20 | 8 | 0 | 0 | 0 | 0 | 131 |
-| 90d | 2026-07-21 | 12 | 0 | 0 | 0 | 0 | 167 |
-| last180d | 2026-04-22 | 25 | 0 | 1 | 0 | 0 | 348 |
-| 360d | 2025-10-24 | 49 | 0 | 3 | 0 | 0 | 671 |
-| last720d | 2024-10-29 | 100 | 1 | 4 | 0 | 1 | 1167 |
+| 30d | 2026-09-20 | 5 | 0 | 0 | 0 | 0 | 52 |
+| last60d | 2026-08-21 | 9 | 0 | 0 | 0 | 0 | 133 |
+| 90d | 2026-07-22 | 13 | 0 | 0 | 0 | 0 | 169 |
+| last180d | 2026-04-23 | 26 | 0 | 1 | 0 | 0 | 350 |
+| 360d | 2025-10-25 | 50 | 0 | 3 | 0 | 0 | 673 |
+| last720d | 2024-10-30 | 100 | 1 | 4 | 0 | 1 | 1168 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [wangle-v2026.10.12.00.tar.gz](https://github.com/facebook/wangle/releases/download/v2026.10.12.00/wangle-v2026.10.12.00.tar.gz) | 442.9 KiB | `native/unknown` |
-| [wangle-v2026.10.12.00.zip](https://github.com/facebook/wangle/releases/download/v2026.10.12.00/wangle-v2026.10.12.00.zip) | 703.7 KiB | `other` |
+| [wangle-v2026.10.19.00.tar.gz](https://github.com/facebook/wangle/releases/download/v2026.10.19.00/wangle-v2026.10.19.00.tar.gz) | 444.0 KiB | `native/unknown` |
+| [wangle-v2026.10.19.00.zip](https://github.com/facebook/wangle/releases/download/v2026.10.19.00/wangle-v2026.10.19.00.zip) | 705.8 KiB | `other` |
 
 ## 改进这些数据
 
@@ -80,4 +80,4 @@ wangle 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261019.yml` · 2026-10-19T03:18:41Z._
+_数据快照: `data/card/261020.yml` · 2026-10-20T03:27:40Z._

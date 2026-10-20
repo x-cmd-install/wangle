@@ -26,13 +26,13 @@ Total: **38,609** lines of code across **286** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **5.6 / 10**
+Overall score: **5.7 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (4/10) — Found 14/30 approved changesets -- score normalized to 4
 - **Packaging** (-1/10) — packaging workflow not detected
 - **SAST** (0/10) — no SAST tool detected
+- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
 
 ## Source
 
@@ -41,35 +41,35 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v2026.10.12.00` (2026-10-12)
-- **Last commit**: 2026-10-18
+- **Latest**: `v2026.10.19.00` (2026-10-19)
+- **Last commit**: 2026-10-19
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 3,093 · **Forks**: 546 · **Open issues**: 148 · **Contributors**: 277
+- **Stars**: 3,094 · **Forks**: 546 · **Open issues**: 148 · **Contributors**: 277
 
 ## Totals (cumulative)
 
-- **Releases**: 314 · **Merged PRs**: 7 · **Open PRs**: 14 · **Closed issues**: 114 · **Open issues**: 34 · **Commits**: 7757
+- **Releases**: 315 · **Merged PRs**: 7 · **Open PRs**: 14 · **Closed issues**: 114 · **Open issues**: 34 · **Commits**: 7759
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-19 | 4 | 0 | 0 | 0 | 0 | 50 |
-| last60d | 2026-08-20 | 8 | 0 | 0 | 0 | 0 | 131 |
-| 90d | 2026-07-21 | 12 | 0 | 0 | 0 | 0 | 167 |
-| last180d | 2026-04-22 | 25 | 0 | 1 | 0 | 0 | 348 |
-| 360d | 2025-10-24 | 49 | 0 | 3 | 0 | 0 | 671 |
-| last720d | 2024-10-29 | 100 | 1 | 4 | 0 | 1 | 1167 |
+| 30d | 2026-09-20 | 5 | 0 | 0 | 0 | 0 | 52 |
+| last60d | 2026-08-21 | 9 | 0 | 0 | 0 | 0 | 133 |
+| 90d | 2026-07-22 | 13 | 0 | 0 | 0 | 0 | 169 |
+| last180d | 2026-04-23 | 26 | 0 | 1 | 0 | 0 | 350 |
+| 360d | 2025-10-25 | 50 | 0 | 3 | 0 | 0 | 673 |
+| last720d | 2024-10-30 | 100 | 1 | 4 | 0 | 1 | 1168 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [wangle-v2026.10.12.00.tar.gz](https://github.com/facebook/wangle/releases/download/v2026.10.12.00/wangle-v2026.10.12.00.tar.gz) | 442.9 KiB | `native/unknown` |
-| [wangle-v2026.10.12.00.zip](https://github.com/facebook/wangle/releases/download/v2026.10.12.00/wangle-v2026.10.12.00.zip) | 703.7 KiB | `other` |
+| [wangle-v2026.10.19.00.tar.gz](https://github.com/facebook/wangle/releases/download/v2026.10.19.00/wangle-v2026.10.19.00.tar.gz) | 444.0 KiB | `native/unknown` |
+| [wangle-v2026.10.19.00.zip](https://github.com/facebook/wangle/releases/download/v2026.10.19.00/wangle-v2026.10.19.00.zip) | 705.8 KiB | `other` |
 
 ## Improve this data
 
@@ -80,4 +80,4 @@ Install metadata for wangle lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261019.yml` · 2026-10-19T03:18:41Z._
+_Snapshot: `data/card/261020.yml` · 2026-10-20T03:27:38Z._

@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/facebook/wangle/releases/410734008",
-  "assets_url": "https://api.github.com/repos/facebook/wangle/releases/410734008/assets",
-  "upload_url": "https://uploads.github.com/repos/facebook/wangle/releases/410734008/assets{?name,label}",
-  "html_url": "https://github.com/facebook/wangle/releases/tag/v2026.10.12.00",
-  "id": 410734008,
+  "url": "https://api.github.com/repos/facebook/wangle/releases/417438992",
+  "assets_url": "https://api.github.com/repos/facebook/wangle/releases/417438992/assets",
+  "upload_url": "https://uploads.github.com/repos/facebook/wangle/releases/417438992/assets{?name,label}",
+  "html_url": "https://github.com/facebook/wangle/releases/tag/v2026.10.19.00",
+  "id": 417438992,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -25,22 +25,22 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOAamQHs4Ye024",
-  "tag_name": "v2026.10.12.00",
-  "target_commitish": "98115c119d0cec09b89690f59d9c916868506a80",
-  "name": "v2026.10.12.00",
+  "node_id": "RE_kwDOAamQHs4Y4Z0Q",
+  "tag_name": "v2026.10.19.00",
+  "target_commitish": "14456cb4ee0b7a81daf726daf6b27db28555eacd",
+  "name": "v2026.10.19.00",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-10-12T04:39:56Z",
-  "updated_at": "2026-10-12T15:09:41Z",
-  "published_at": "2026-10-12T15:09:39Z",
+  "created_at": "2026-10-18T16:33:22Z",
+  "updated_at": "2026-10-19T15:08:40Z",
+  "published_at": "2026-10-19T15:08:38Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/facebook/wangle/releases/assets/634123973",
-      "id": 634123973,
-      "node_id": "RA_kwDOAamQHs4ly_bF",
-      "name": "wangle-v2026.10.12.00.tar.gz",
+      "url": "https://api.github.com/repos/facebook/wangle/releases/assets/656611175",
+      "id": 656611175,
+      "node_id": "RA_kwDOAamQHs4nIxdn",
+      "name": "wangle-v2026.10.19.00.tar.gz",
       "label": "",
       "uploader": {
         "login": "github-actions[bot]",
@@ -65,18 +65,18 @@
       },
       "content_type": "application/gzip",
       "state": "uploaded",
-      "size": 453527,
-      "digest": "sha256:702f0fa9ac196525e82595e25b670dbdaf135479d95cd179fba3ec821b57bb03",
-      "download_count": 4,
-      "created_at": "2026-10-12T15:09:41Z",
-      "updated_at": "2026-10-12T15:09:41Z",
-      "browser_download_url": "https://github.com/facebook/wangle/releases/download/v2026.10.12.00/wangle-v2026.10.12.00.tar.gz"
+      "size": 454617,
+      "digest": "sha256:82d19eed53b8ad2e64893abd1314465376a8fa986dfd2f2a04af07e790af15fd",
+      "download_count": 1,
+      "created_at": "2026-10-19T15:08:40Z",
+      "updated_at": "2026-10-19T15:08:40Z",
+      "browser_download_url": "https://github.com/facebook/wangle/releases/download/v2026.10.19.00/wangle-v2026.10.19.00.tar.gz"
     },
     {
-      "url": "https://api.github.com/repos/facebook/wangle/releases/assets/634123945",
-      "id": 634123945,
-      "node_id": "RA_kwDOAamQHs4ly_ap",
-      "name": "wangle-v2026.10.12.00.zip",
+      "url": "https://api.github.com/repos/facebook/wangle/releases/assets/656611133",
+      "id": 656611133,
+      "node_id": "RA_kwDOAamQHs4nIxc9",
+      "name": "wangle-v2026.10.19.00.zip",
       "label": "",
       "uploader": {
         "login": "github-actions[bot]",
@@ -101,15 +101,15 @@
       },
       "content_type": "application/zip",
       "state": "uploaded",
-      "size": 720606,
-      "digest": "sha256:f60ad7c38a688c878c4b2b4ea82aa79ab1c20c9dd72b0739ebe4ec03b472fb6c",
-      "download_count": 4,
-      "created_at": "2026-10-12T15:09:40Z",
-      "updated_at": "2026-10-12T15:09:40Z",
-      "browser_download_url": "https://github.com/facebook/wangle/releases/download/v2026.10.12.00/wangle-v2026.10.12.00.zip"
+      "size": 722787,
+      "digest": "sha256:21644662822860c8f5c5a2146c4c9e67e3d3652fdd092a350a1591c3ed7cad21",
+      "download_count": 1,
+      "created_at": "2026-10-19T15:08:39Z",
+      "updated_at": "2026-10-19T15:08:39Z",
+      "browser_download_url": "https://github.com/facebook/wangle/releases/download/v2026.10.19.00/wangle-v2026.10.19.00.zip"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/facebook/wangle/tarball/v2026.10.12.00",
-  "zipball_url": "https://api.github.com/repos/facebook/wangle/zipball/v2026.10.12.00",
-  "body": "Automated release from TagIt\n<details>\n  <summary>File Hashes</summary>\n  <ul>\n    <li>SHA2-256(wangle-v2026.10.12.00.zip)= f60ad7c38a688c878c4b2b4ea82aa79ab1c20c9dd72b0739ebe4ec03b472fb6c</li>\n    <li>SHA2-512(wangle-v2026.10.12.00.zip)= e43cb4e2444a38e5153a2fa1893d80bbea814b83c48b4f596b018f1618268bad425ec22b315588c3ab46913a84956759777a41443e4e438888b92c22dd61a6f2</li>\n    <li>SHA2-256(wangle-v2026.10.12.00.tar.gz)= 702f0fa9ac196525e82595e25b670dbdaf135479d95cd179fba3ec821b57bb03</li>\n    <li>SHA2-512(wangle-v2026.10.12.00.tar.gz)= 448ee80bce84e41de46e7a57940e08a134d6fb873b9d4f114ea582d50c3b8703cceefbd8c45de61145b8a54dd7e42479a8259cc5e57fdfa01652c445d2a90e92</li>\n  </ul>\n</details>"
+  "tarball_url": "https://api.github.com/repos/facebook/wangle/tarball/v2026.10.19.00",
+  "zipball_url": "https://api.github.com/repos/facebook/wangle/zipball/v2026.10.19.00",
+  "body": "Automated release from TagIt\n<details>\n  <summary>File Hashes</summary>\n  <ul>\n    <li>SHA2-256(wangle-v2026.10.19.00.zip)= 21644662822860c8f5c5a2146c4c9e67e3d3652fdd092a350a1591c3ed7cad21</li>\n    <li>SHA2-512(wangle-v2026.10.19.00.zip)= 186215308aa46b3777d4615226d7496515c69518fb06e4cddddd56a13179892b43188b16aa4dca939561cf02f1f50762c2474e67873b3e2b98bb6d8be32844d3</li>\n    <li>SHA2-256(wangle-v2026.10.19.00.tar.gz)= 82d19eed53b8ad2e64893abd1314465376a8fa986dfd2f2a04af07e790af15fd</li>\n    <li>SHA2-512(wangle-v2026.10.19.00.tar.gz)= 7594c6b9f3e9cb51a9c69a5cf0e861382ceedbdc0ce8f12e209dee46c482bde17bd06b682c8f00ef04f9d7f05ba46d9b4c3fb19f640835c34eb293840cb041a6</li>\n  </ul>\n</details>"
 }

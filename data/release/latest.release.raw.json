@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 454617,
       "digest": "sha256:82d19eed53b8ad2e64893abd1314465376a8fa986dfd2f2a04af07e790af15fd",
-      "download_count": 1,
+      "download_count": 3,
       "created_at": "2026-10-19T15:08:40Z",
       "updated_at": "2026-10-19T15:08:40Z",
       "browser_download_url": "https://github.com/facebook/wangle/releases/download/v2026.10.19.00/wangle-v2026.10.19.00.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 722787,
       "digest": "sha256:21644662822860c8f5c5a2146c4c9e67e3d3652fdd092a350a1591c3ed7cad21",
-      "download_count": 2,
+      "download_count": 4,
       "created_at": "2026-10-19T15:08:39Z",
       "updated_at": "2026-10-19T15:08:39Z",
       "browser_download_url": "https://github.com/facebook/wangle/releases/download/v2026.10.19.00/wangle-v2026.10.19.00.zip"

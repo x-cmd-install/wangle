@@ -42,7 +42,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2026.10.26.00` (2026-10-26)
-- **Last commit**: 2026-10-26
+- **Last commit**: 2026-10-27
 - **Assets in release**: 2
 
 ## Popularity
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 316 · **Merged PRs**: 7 · **Open PRs**: 14 · **Closed issues**: 114 · **Open issues**: 34 · **Commits**: 7786
+- **Releases**: 316 · **Merged PRs**: 7 · **Open PRs**: 14 · **Closed issues**: 114 · **Open issues**: 34 · **Commits**: 7787
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-27 | 5 | 0 | 0 | 0 | 0 | 65 |
-| last60d | 2026-08-28 | 9 | 0 | 0 | 0 | 0 | 144 |
-| 90d | 2026-07-29 | 13 | 0 | 0 | 0 | 0 | 185 |
-| last180d | 2026-04-30 | 26 | 0 | 1 | 0 | 0 | 363 |
-| 360d | 2025-11-01 | 50 | 0 | 3 | 0 | 0 | 691 |
-| last720d | 2024-11-06 | 100 | 1 | 4 | 0 | 1 | 1184 |
+| 30d | 2026-09-28 | 5 | 0 | 0 | 0 | 0 | 66 |
+| last60d | 2026-08-29 | 9 | 0 | 0 | 0 | 0 | 145 |
+| 90d | 2026-07-30 | 13 | 0 | 0 | 0 | 0 | 186 |
+| last180d | 2026-05-01 | 26 | 0 | 1 | 0 | 0 | 364 |
+| 360d | 2025-11-02 | 50 | 0 | 3 | 0 | 0 | 692 |
+| last720d | 2024-11-07 | 100 | 1 | 4 | 0 | 1 | 1184 |
 
 ## Release assets
 
@@ -77,7 +77,7 @@ Reported by **39** distros on [repology.org](https://repology.org/project/wangle
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `2026.10.19.00` | ✅ latest |
+| Homebrew | `2026.10.26.00` | ✅ latest |
 | Nix unstable | `2026.07.27.00` | ⚠️ outdated |
 
 ## Improve this data
@@ -89,4 +89,4 @@ Install metadata for wangle lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261027.yml` · 2026-10-27T03:45:40Z._
+_Snapshot: `data/card/261028.yml` · 2026-10-28T04:02:22Z._

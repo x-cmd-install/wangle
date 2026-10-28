@@ -190,7 +190,7 @@
 - repo: homebrew
   srcname: wangle
   visiblename: wangle
-  version: 2026.10.19.00
+  version: 2026.10.26.00
   origversion: null
   status: newest
   summary: Modular, composable client/server abstractions framework
@@ -229,6 +229,15 @@
     - Apache-2.0
   categories:
     - dev-cpp
+- repo: xrepo
+  srcname: wangle
+  visiblename: wangle
+  version: 2024.07.08
+  origversion: null
+  status: legacy
+  summary: Wangle is a framework providing a set of common client/server abstractions for building services in a consistent, modular, and composable way.
+  licenses:
+    - Apache-2.0
 - repo: liguros_develop
   srcname: dev-cpp/wangle
   visiblename: dev-cpp/wangle
@@ -448,15 +457,6 @@
   srcname: wangle
   visiblename: wangle
   version: 2024.07.01
-  origversion: null
-  status: legacy
-  summary: Wangle is a framework providing a set of common client/server abstractions for building services in a consistent, modular, and composable way.
-  licenses:
-    - Apache-2.0
-- repo: xrepo
-  srcname: wangle
-  visiblename: wangle
-  version: 2024.07.08
   origversion: null
   status: legacy
   summary: Wangle is a framework providing a set of common client/server abstractions for building services in a consistent, modular, and composable way.

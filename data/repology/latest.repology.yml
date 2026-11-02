@@ -1,3 +1,18 @@
+- repo: nix_stable_25_11
+  srcname: wangle
+  visiblename: wangle
+  version: 2025.10.13.00
+  origversion: null
+  status: outdated
+  summary: Open-source C++ networking library
+  maintainers:
+    - pierre@pierre.is
+    - nixpkgs@kylesferrazza.com
+    - nixpkgs@emily.moe
+    - techknowlogick@gitea.com
+    - lf-@github
+  licenses:
+    - Apache-2.0
 - repo: aosc
   srcname: runtime-network/wangle
   binname: wangle
@@ -229,15 +244,6 @@
     - Apache-2.0
   categories:
     - dev-cpp
-- repo: xrepo
-  srcname: wangle
-  visiblename: wangle
-  version: 2024.07.08
-  origversion: null
-  status: legacy
-  summary: Wangle is a framework providing a set of common client/server abstractions for building services in a consistent, modular, and composable way.
-  licenses:
-    - Apache-2.0
 - repo: liguros_develop
   srcname: dev-cpp/wangle
   visiblename: dev-cpp/wangle
@@ -318,21 +324,6 @@
     - nixpkgs@kylesferrazza.com
     - nixpkgs@emily.moe
     - techknowlogick@gitea.com
-  licenses:
-    - Apache-2.0
-- repo: nix_stable_25_11
-  srcname: wangle
-  visiblename: wangle
-  version: 2025.10.13.00
-  origversion: null
-  status: outdated
-  summary: Open-source C++ networking library
-  maintainers:
-    - pierre@pierre.is
-    - nixpkgs@kylesferrazza.com
-    - nixpkgs@emily.moe
-    - techknowlogick@gitea.com
-    - lf-@github
   licenses:
     - Apache-2.0
 - repo: nix_stable_26_05
@@ -457,6 +448,15 @@
   srcname: wangle
   visiblename: wangle
   version: 2024.07.01
+  origversion: null
+  status: legacy
+  summary: Wangle is a framework providing a set of common client/server abstractions for building services in a consistent, modular, and composable way.
+  licenses:
+    - Apache-2.0
+- repo: xrepo
+  srcname: wangle
+  visiblename: wangle
+  version: 2024.07.08
   origversion: null
   status: legacy
   summary: Wangle is a framework providing a set of common client/server abstractions for building services in a consistent, modular, and composable way.

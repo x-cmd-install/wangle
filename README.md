@@ -14,15 +14,15 @@ x install wangle
 
 ## Code insight
 
-Total: **38,983** lines of code across **287** files in the top 5 languages.
+Total: **39,075** lines of code across **287** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Cpp | 15,036 | 2,508 | 2,690 | 86 |
-| Python | 11,050 | 1,147 | 1,800 | 40 |
+| Python | 11,175 | 1,151 | 1,807 | 40 |
 | CHeader | 8,603 | 4,761 | 2,207 | 110 |
 | CMake | 3,414 | 1,435 | 511 | 45 |
-| Yaml | 589 | 30 | 97 | 6 |
+| Yaml | 556 | 30 | 97 | 6 |
 
 ## OpenSSF Scorecard
 
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2026.10.26.00` (2026-10-26)
-- **Last commit**: 2026-11-01
+- **Last commit**: 2026-11-02
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 3,093 · **Forks**: 545 · **Open issues**: 148 · **Contributors**: 279
+- **Stars**: 3,093 · **Forks**: 545 · **Open issues**: 148 · **Contributors**: 280
 
 ## Totals (cumulative)
 
-- **Releases**: 316 · **Merged PRs**: 7 · **Open PRs**: 14 · **Closed issues**: 114 · **Open issues**: 34 · **Commits**: 7824
+- **Releases**: 316 · **Merged PRs**: 7 · **Open PRs**: 14 · **Closed issues**: 114 · **Open issues**: 34 · **Commits**: 7831
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 4 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-03 | 8 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-04 | 12 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-06 | 25 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-07 | 49 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-12 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-04 | 4 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-04 | 8 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-05 | 12 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-07 | 25 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-08 | 49 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-13 | 100 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for wangle lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261102.yml` · 2026-11-02T04:30:01Z._
+_Snapshot: `data/card/261103.yml` · 2026-11-03T05:24:38Z._

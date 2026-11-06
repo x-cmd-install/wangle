@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 455602,
       "digest": "sha256:a1579059373efbcebd0220afda70f4edd2e16d34dcef4980b9296aeee47efc4d",
-      "download_count": 23,
+      "download_count": 28,
       "created_at": "2026-10-26T15:10:10Z",
       "updated_at": "2026-10-26T15:10:11Z",
       "browser_download_url": "https://github.com/meta/wangle/releases/download/v2026.10.26.00/wangle-v2026.10.26.00.tar.gz"

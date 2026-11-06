@@ -14,12 +14,12 @@ x install wangle
 
 ## Code insight
 
-Total: **39,147** lines of code across **287** files in the top 5 languages.
+Total: **39,264** lines of code across **288** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Cpp | 15,036 | 2,508 | 2,690 | 86 |
-| Python | 11,176 | 1,151 | 1,807 | 40 |
+| Python | 11,293 | 1,157 | 1,825 | 41 |
 | CHeader | 8,605 | 4,760 | 2,207 | 110 |
 | CMake | 3,483 | 1,445 | 514 | 45 |
 | Yaml | 556 | 30 | 97 | 6 |
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2026.10.26.00` (2026-10-26)
-- **Last commit**: 2026-11-04
+- **Last commit**: 2026-11-06
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 3,094 · **Forks**: 544 · **Open issues**: 148 · **Contributors**: 280
+- **Stars**: 3,095 · **Forks**: 545 · **Open issues**: 148 · **Contributors**: 282
 
 ## Totals (cumulative)
 
-- **Releases**: 316 · **Merged PRs**: 7 · **Open PRs**: 14 · **Closed issues**: 114 · **Open issues**: 34 · **Commits**: 7845
+- **Releases**: 316 · **Merged PRs**: 7 · **Open PRs**: 14 · **Closed issues**: 114 · **Open issues**: 34 · **Commits**: 7849
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-06 | 3 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-06 | 8 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-07 | 12 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-09 | 25 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-10 | 49 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-15 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-07 | 3 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-07 | 8 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-08 | 12 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-10 | 25 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-11 | 48 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-16 | 100 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for wangle lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261105.yml` · 2026-11-05T05:11:02Z._
+_Snapshot: `data/card/261106.yml` · 2026-11-06T05:10:55Z._

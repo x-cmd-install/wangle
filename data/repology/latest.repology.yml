@@ -1,18 +1,3 @@
-- repo: nix_stable_25_11
-  srcname: wangle
-  visiblename: wangle
-  version: 2025.10.13.00
-  origversion: null
-  status: outdated
-  summary: Open-source C++ networking library
-  maintainers:
-    - pierre@pierre.is
-    - nixpkgs@kylesferrazza.com
-    - nixpkgs@emily.moe
-    - techknowlogick@gitea.com
-    - lf-@github
-  licenses:
-    - Apache-2.0
 - repo: aosc
   srcname: runtime-network/wangle
   binname: wangle
@@ -166,9 +151,9 @@
   srcname: net/wangle
   binname: wangle
   visiblename: net/wangle
-  version: 2026.10.12.00
+  version: 2026.10.26.00
   origversion: null
-  status: outdated
+  status: newest
   summary: Framework for building services in a consistent/modular/composable way
   maintainers:
     - yuri@freebsd.org
@@ -324,6 +309,21 @@
     - nixpkgs@kylesferrazza.com
     - nixpkgs@emily.moe
     - techknowlogick@gitea.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_11
+  srcname: wangle
+  visiblename: wangle
+  version: 2025.10.13.00
+  origversion: null
+  status: outdated
+  summary: Open-source C++ networking library
+  maintainers:
+    - pierre@pierre.is
+    - nixpkgs@kylesferrazza.com
+    - nixpkgs@emily.moe
+    - techknowlogick@gitea.com
+    - lf-@github
   licenses:
     - Apache-2.0
 - repo: nix_stable_26_05

@@ -41,39 +41,39 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v2026.10.26.00` (2026-10-26)
-- **Last commit**: 2026-11-07
+- **Latest**: `v2026.11.09.00` (2026-11-09)
+- **Last commit**: 2026-11-09
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 3,095 · **Forks**: 543 · **Open issues**: 148 · **Contributors**: 282
+- **Stars**: 3,094 · **Forks**: 543 · **Open issues**: 148 · **Contributors**: 282
 
 ## Totals (cumulative)
 
-- **Releases**: 316 · **Merged PRs**: 7 · **Open PRs**: 14 · **Closed issues**: 114 · **Open issues**: 34 · **Commits**: 7858
+- **Releases**: 317 · **Merged PRs**: 7 · **Open PRs**: 14 · **Closed issues**: 114 · **Open issues**: 34 · **Commits**: 7860
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-10 | 3 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-10 | 7 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-11 | 11 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-13 | 24 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-14 | 48 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-19 | 99 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-11 | 4 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-11 | 8 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-12 | 12 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-14 | 25 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-15 | 49 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-20 | 100 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [wangle-v2026.10.26.00.tar.gz](https://github.com/facebook/wangle/releases/download/v2026.10.26.00/wangle-v2026.10.26.00.tar.gz) | 444.9 KiB | `native/unknown` |
-| [wangle-v2026.10.26.00.zip](https://github.com/facebook/wangle/releases/download/v2026.10.26.00/wangle-v2026.10.26.00.zip) | 707.4 KiB | `other` |
+| [wangle-v2026.11.09.00.tar.gz](https://github.com/facebook/wangle/releases/download/v2026.11.09.00/wangle-v2026.11.09.00.tar.gz) | 455.2 KiB | `native/unknown` |
+| [wangle-v2026.11.09.00.zip](https://github.com/facebook/wangle/releases/download/v2026.11.09.00/wangle-v2026.11.09.00.zip) | 716.8 KiB | `other` |
 
 ## Distribution status
 
-Reported by **39** distros on [repology.org](https://repology.org/project/wangle). **1** are ✅ on the latest upstream release, **21** are ⚠️ on an older version.
+Reported by **39** distros on [repology.org](https://repology.org/project/wangle). **2** are ✅ on the latest upstream release, **20** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -89,4 +89,4 @@ Install metadata for wangle lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261109.yml` · 2026-11-09T04:42:58Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T05:58:24Z._

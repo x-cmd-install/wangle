@@ -23,6 +23,20 @@
     - envolution@aur
   licenses:
     - Apache-2.0
+- repo: homebrew
+  srcname: wangle
+  visiblename: wangle
+  version: 2026.10.26.00
+  origversion: null
+  status: newest
+  summary: Modular, composable client/server abstractions framework
+- repo: homebrew
+  srcname: wangle
+  visiblename: wangle
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Modular, composable client/server abstractions framework
 - repo: aur
   srcname: wangle-git
   binname: wangle-git
@@ -187,20 +201,6 @@
     - Apache-2.0
   categories:
     - dev-cpp
-- repo: homebrew
-  srcname: wangle
-  visiblename: wangle
-  version: 2026.10.26.00
-  origversion: null
-  status: newest
-  summary: Modular, composable client/server abstractions framework
-- repo: homebrew
-  srcname: wangle
-  visiblename: wangle
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: Modular, composable client/server abstractions framework
 - repo: liguros_stable
   srcname: dev-cpp/wangle
   visiblename: dev-cpp/wangle
@@ -261,9 +261,9 @@
   srcname: devel/wangle
   binname: wangle
   visiblename: wangle
-  version: 2026.07.27.00
+  version: 2026.10.26.00
   origversion: null
-  status: outdated
+  status: newest
   summary: wangle is a framework providing a set of common client/server abstractions for building services in a consistent, modular and composable way.
   maintainers:
     - barracuda156@github

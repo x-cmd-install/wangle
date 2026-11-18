@@ -19,7 +19,7 @@ Total: **39,348** lines of code across **288** files in the top 5 languages.
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Cpp | 15,043 | 2,503 | 2,689 | 86 |
-| Python | 11,360 | 1,165 | 1,831 | 41 |
+| Python | 11,360 | 1,166 | 1,831 | 41 |
 | CHeader | 8,619 | 4,760 | 2,210 | 110 |
 | CMake | 3,482 | 1,448 | 514 | 45 |
 | Yaml | 553 | 30 | 97 | 6 |
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 318 · **Merged PRs**: 7 · **Open PRs**: 14 · **Closed issues**: 115 · **Open issues**: 33 · **Commits**: 7875
+- **Releases**: 318 · **Merged PRs**: 7 · **Open PRs**: 14 · **Closed issues**: 115 · **Open issues**: 33 · **Commits**: 7876
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 4 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-18 | 8 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-19 | 12 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-21 | 25 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-22 | 49 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-27 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-19 | 4 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-19 | 8 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-20 | 12 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-22 | 25 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-23 | 49 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-28 | 100 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for wangle lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T06:35:51Z._
+_Snapshot: `data/card/261118.yml` · 2026-11-18T05:58:14Z._

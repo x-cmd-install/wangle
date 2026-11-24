@@ -41,8 +41,8 @@ x install wangle
 
 ## 发布
 
-- **最新版本**: `v2026.11.16.00` (2026-11-16)
-- **最近提交**: 2026-11-22
+- **最新版本**: `v2026.11.23.00` (2026-11-23)
+- **最近提交**: 2026-11-23
 - **Release 含资产**: 2 个
 
 ## 流行度
@@ -51,25 +51,25 @@ x install wangle
 
 ## 累计统计
 
-- **发布数**: 318 · **已合并 PR**: 7 · **开放 PR**: 14 · **已关闭 issue**: 115 · **开放 issue**: 33 · **提交数**: 7886
+- **发布数**: 319 · **已合并 PR**: 7 · **开放 PR**: 14 · **已关闭 issue**: 115 · **开放 issue**: 33 · **提交数**: 7889
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 3 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-24 | 7 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-25 | 11 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-27 | 24 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-28 | 48 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-12-03 | 99 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-25 | 4 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-25 | 8 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-26 | 12 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-28 | 25 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-29 | 49 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-12-04 | 100 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [wangle-v2026.11.16.00.tar.gz](https://github.com/facebook/wangle/releases/download/v2026.11.16.00/wangle-v2026.11.16.00.tar.gz) | 455.9 KiB | `native/unknown` |
-| [wangle-v2026.11.16.00.zip](https://github.com/facebook/wangle/releases/download/v2026.11.16.00/wangle-v2026.11.16.00.zip) | 718.1 KiB | `other` |
+| [wangle-v2026.11.23.00.tar.gz](https://github.com/facebook/wangle/releases/download/v2026.11.23.00/wangle-v2026.11.23.00.tar.gz) | 455.5 KiB | `native/unknown` |
+| [wangle-v2026.11.23.00.zip](https://github.com/facebook/wangle/releases/download/v2026.11.23.00/wangle-v2026.11.23.00.zip) | 716.9 KiB | `other` |
 
 ## 发行版状态
 
@@ -89,4 +89,4 @@ wangle 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261123.yml` · 2026-11-23T05:49:57Z._
+_数据快照: `data/card/261124.yml` · 2026-11-24T08:27:45Z._
